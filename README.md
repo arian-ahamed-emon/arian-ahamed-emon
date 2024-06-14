@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arian Ahamed Emon</h1>
-<h3 align="center">I am a dedicated and skilled mobile application developer with over 5 years of experience, specializing in the Flutter framework. My passion for creating seamless and user-friendly mobile applications drives me to continuously improve my skills and keep up-to-date with the latest industry trends. I excel in transforming complex requirements into intuitive, high-performing applications for both iOS and Android platforms.</h3>
+<h3 align="center">I am a dedicated and skilled mobile application developer with over 1 years of experience, specializing in the Flutter framework. My passion for creating seamless and user-friendly mobile applications drives me to continuously improve my skills and keep up-to-date with the latest industry trends. I excel in transforming complex requirements into intuitive, high-performing applications for both iOS and Android platforms.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
