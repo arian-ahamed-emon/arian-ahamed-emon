@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⦁	🏢 Founder, CEO at MERRION SOFT<br>⦁	⚙️ Tech: Flutter, Dart, HTML, CSS, Javascript, PHP, Firebase, MongoDB,SQLgit & Figma<br>⦁	💬 Ping me about Mobile App Development, Web Development, Backend Development, AI-Powered Applications and Figma.<br>⦁	📫 Reach me: dev.emon.bd@gmail.com<br>⦁	⚡️ Fun fact: I'm a tech enthusiast who loves building apps and exploring cutting-edge technologies.</p>
+<p align="left">⦁	⚙️ Tech: Flutter, Dart, HTML, CSS, Javascript, PHP, Firebase, MongoDB,SQLgit & Figma<br>⦁	💬 Ping me about Mobile App Development, Web Development, Backend Development, AI-Powered Applications and Figma.<br>⦁	📫 Reach me: dev.emon.bd@gmail.com<br>⦁	⚡️ Fun fact: I'm a tech enthusiast who loves building apps and exploring cutting-edge technologies.</p>
 
 ###
 
